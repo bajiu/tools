@@ -17,3 +17,8 @@
 
 ####clockIn
 node index.js [filename].[xlsx/xls]
+
+###批量转码(GBK/utf-8)
+
+####codingChange
+node index.js [GBK](有则返回GBK格式)
