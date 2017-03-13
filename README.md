@@ -27,3 +27,9 @@ node index.js [(GBK)]
 
 ####changeName
 node index.js [postfix] [(newName)]
+
+
+####管理微信公众号的上传文件
+
+#####weichatimg
+node index.js
